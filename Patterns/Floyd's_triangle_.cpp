@@ -11,7 +11,8 @@ int main(){
             cout<<num<<" ";
             num++;
         }
-        cout<<endl;
-    }
+
+        cout<<endl;}
+
     return 0;
 }
